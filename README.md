@@ -38,6 +38,8 @@ To run application:
         <td>    
             <img src="https://github.com/RobertNeat/Downloader_app/blob/main/res_images/image_download/4b_file2_write_storage_permit.png" width="200"/>
         </td>  
+    </tr>
+    <tr>
         <td>    
             <img src="https://github.com/RobertNeat/Downloader_app/blob/main/res_images/image_download/5b_file2_write_oermit_accepted.png" width="200"/>
         </td>  
