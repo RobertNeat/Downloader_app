@@ -60,3 +60,34 @@ To run application:
 2. Downloading larger file from specific URL (the notification creation, return to app through notification):
 
 
+<table>
+    <tr>
+        <td>    
+            <img src="https://github.com/RobertNeat/Downloader_app/blob/main/res_images/kernel_download/1a_file1_launcher.png" width="200"/>
+        </td>  
+        <td>    
+            <img src="https://github.com/RobertNeat/Downloader_app/blob/main/res_images/kernel_download/2a_file1_first_launch.png" width="200"/>
+        </td>  
+        <td>    
+            <img src="https://github.com/RobertNeat/Downloader_app/blob/main/res_images/kernel_download/3a_file1_download_info.png" width="200"/>
+        </td>  
+        <td>    
+            <img src="https://github.com/RobertNeat/Downloader_app/blob/main/res_images/kernel_download/4a_file1_downloading.png" width="200"/>
+        </td>  
+    </tr>
+</table>
+
+<table>
+    <tr>
+        <td>    
+            <img src="https://github.com/RobertNeat/Downloader_app/blob/main/res_images/kernel_download/5a_file1_notification_creation.png" width="200"/>
+        </td>  
+        <td>    
+            <img src="https://github.com/RobertNeat/Downloader_app/blob/main/res_images/kernel_download/6a_file1_close_apps.png" width="200"/>
+        </td>  
+        <td>    
+            <img src="https://github.com/RobertNeat/Downloader_app/blob/main/res_images/kernel_download/7a_file1_notification_callback.png" width="200"/>
+        </td>  
+    </tr>
+</table>
+
